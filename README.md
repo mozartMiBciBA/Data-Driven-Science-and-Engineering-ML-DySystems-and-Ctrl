@@ -15,7 +15,14 @@ Ejemplos de código y datos.
 
 1.- CH1_Sec1_1_SVD
 
+Se realiza el calculo SVD.
+
 Datos: No se requieren
 
-2.- 
+2.- CH01_SEC02
+
+Se aplica el metodo SVD a la foto de un perro.
+
+Datos: dog.jpg
+
 

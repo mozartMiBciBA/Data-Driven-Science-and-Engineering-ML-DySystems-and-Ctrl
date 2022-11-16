@@ -29,13 +29,13 @@ Datos: dog.jpg
 
 15 Nov 2022
 
-En el codigo realizado en python la descomposición de valores singulares (SVD) puede ser utilizada pora realizar analisis de componentes principales (PCA), se aplica PCA a una base de datos de 216 pacientes con 4000 marcadores (características),  se logra reducir toda la información en tres componentes, lo cual se puede observar en la grafica obtenida. 
+En el codigo realizado en python se muestra que la descomposición de valores singulares (SVD) puede ser utilizada pora realizar analisis de componentes principales (PCA), se aplica PCA a una base de datos de 216 pacientes con 4000 marcadores (características),  se logra reducir toda la información en tres componentes, lo cual se puede observar en la grafica obtenida. 
 
 Datos para analisis:
 
-1.- ovariancancer_grp.csv
+I.- ovariancancer_grp.csv
 
-2.- ovariancancer_obs.csv
+II.- ovariancancer_obs.csv
 
 Nota: EL programa se puede ejecutar en colab y funciona correctamente.
 

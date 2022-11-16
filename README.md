@@ -31,6 +31,13 @@ Datos: No requeridos
 
 Descripción: This video describes how the singular value decomposition (SVD) is related to unitary transformations, with Python code.
 
+4.- CH01_SEC04_1_Linear.ipynb
+
+Datos: No requeridos
+
+Descripción: This video describes how the singular value decomposition (SVD) can be used for linear regression in Python 
+
+
 8.- ch01_sec05_2_ovariancancer.py
 
 15 Nov 2022

@@ -25,4 +25,11 @@ Se aplica el metodo SVD a la foto de un perro.
 
 Datos: dog.jpg
 
+8.- ch01_sec05_2_ovariancancer.py
+
+15 Nov 2022
+En el codigo realizado en python la descomposición de valores singulares (SVD) puede ser utilizada pora realizar analisis de componentes principales (PCA), se aplica PCA a una base de datos de 216 pacientes con 4000 marcadores (características),  se logra reducir toda la información en tres componentes, lo cual se puede observar en la grafica obtenida. 
+
+Nota: EL programa se puede ejecutar en colab y funciona correctamente.
+
 

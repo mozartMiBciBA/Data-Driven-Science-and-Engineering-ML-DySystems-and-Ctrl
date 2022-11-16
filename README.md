@@ -37,6 +37,15 @@ Datos: No requeridos
 
 Descripción: This video describes how the singular value decomposition (SVD) can be used for linear regression in Python 
 
+5.- CH01_SEC04_2_Cement.ipynb
+
+Datos: 
+I.- hald_heat.csv
+
+II.- hald_ingredients.csv
+
+Descripción: This video describes how the singular value decomposition (SVD) can be used for linear regression in Python
+
 
 8.- ch01_sec05_2_ovariancancer.py
 

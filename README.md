@@ -40,6 +40,7 @@ Descripción: This video describes how the singular value decomposition (SVD) ca
 5.- CH01_SEC04_2_Cement.ipynb
 
 Datos: 
+
 I.- hald_heat.csv
 
 II.- hald_ingredients.csv

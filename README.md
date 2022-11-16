@@ -5,11 +5,11 @@
 
 Las fuentes son de libre acceso:
 
-1.- Book Website: http://databookuw.com 
+I.- Book Website: http://databookuw.com 
 
-2.- Book PDF: http://databookuw.com/databook.pdf
+II.- Book PDF: http://databookuw.com/databook.pdf
 
-3.- https://www.youtube.com/c/Eigensteve
+III.- https://www.youtube.com/c/Eigensteve
 
 Ejemplos de código y datos.
 

@@ -25,6 +25,12 @@ Se aplica el metodo SVD a la foto de un perro.
 
 Datos: dog.jpg
 
+3.- Ch1_Sec03.ipynb
+
+Datos: No requeridos
+
+Descripción: This video describes how the singular value decomposition (SVD) is related to unitary transformations, with Python code.
+
 8.- ch01_sec05_2_ovariancancer.py
 
 15 Nov 2022

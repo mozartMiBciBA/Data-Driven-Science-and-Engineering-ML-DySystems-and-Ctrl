@@ -66,7 +66,7 @@ Des: This video describes how the singular value decomposition (SVD) can be used
 Chapter 1 from:  "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control"  by Brunton and Kutz
 
 
-{\color{Blue} \textbf{8.- ch01_sec05_2_ovariancancer.py}}
+8.- ch01_sec05_2_ovariancancer.py
 
 15 Nov 2022
 

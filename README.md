@@ -57,6 +57,15 @@ Desc: This video describes how the singular value decomposition (SVD) can be use
 
 These lectures follow Chapter 1 from:  "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control"  by Brunton and Kutz
 
+7.- CH01_SEC05_1_PCAGaussian.ipynb
+
+Datos: No Requeridos
+
+Des: This video describes how the singular value decomposition (SVD) can be used for principal component analysis.
+
+Chapter 1 from:  "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control"  by Brunton and Kutz
+
+
 8.- ch01_sec05_2_ovariancancer.py
 
 15 Nov 2022

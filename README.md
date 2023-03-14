@@ -53,7 +53,11 @@ Datos:
 
 I.- housing.data
 
+
 Desc: This video describes how the singular value decomposition (SVD) can be used for linear regression in Python (part 3).
+
+In this example, we explore a larger data set to determine which factors best
+predict prices in the Boston housing market
 
 These lectures follow Chapter 1 from:  "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control"  by Brunton and Kutz
 
